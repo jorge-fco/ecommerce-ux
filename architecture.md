@@ -16,8 +16,9 @@
 * Register
 * Reset password
 * Account
-* History shopping
 * Address
+* History shopping
+* Payments
 
 ### Optional
 * About
