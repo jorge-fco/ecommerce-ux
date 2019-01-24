@@ -15,6 +15,7 @@
 * Login
 * Register
 * Reset password
+* Account
 * History shopping
 * Address
 
