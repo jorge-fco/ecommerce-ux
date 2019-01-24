@@ -4,10 +4,10 @@
 
 **Login**
 ```
-└── Error email
-└── Error password
-└── Reset password
-└── Register
+└── error email
+└── error password
+└── reset password
+└── register
 ```
 
 **Product**
@@ -20,8 +20,8 @@
 
 **Cart**
 ```
-Cart items
-Empty cart
+cart items
+empty cart
 ```
 
 **Checkout**
