@@ -1,8 +1,8 @@
 # Flujo
 
-### Emails
+**Emails**
 
-### Login
+**Login**
 ```
 └── Error email
 └── Error password
@@ -10,10 +10,18 @@
 └── Register
 ```
 
-### Product
+**Product**
 ```
 └── Name
 └── precio
 └── thumb
 └── Add product
+```
+
+**Cart**
+
+**Checkout**
+```
+information
+payment gateways
 ```
