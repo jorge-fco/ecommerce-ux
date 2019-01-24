@@ -19,6 +19,10 @@
 ```
 
 **Cart**
+```
+Cart items
+Empty cart
+```
 
 **Checkout**
 ```
