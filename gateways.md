@@ -1,5 +1,6 @@
-* https://www.paypal.com/
-* https://www.conekta.com/
-* https://pagofacil.net/
-* https://stripe.com/
-* https://squareup.com/
+* [Paypal](https://www.paypal.com/)
+* [Conekta](https://www.conekta.com/)
+* [Pago fácil](https://pagofacil.net/)
+* [Stripe](https://stripe.com/)
+* [Square](https://squareup.com/)
+* [Pay google](https://pay.google.com/about/business/)
