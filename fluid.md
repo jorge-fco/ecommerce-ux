@@ -12,8 +12,10 @@
 
 **Products**
 ```
+Buscador
 tags
 categories
+filters
 ```
 
 
