@@ -10,11 +10,21 @@
 └── register
 ```
 
+**Products**
+tags
+categories
+
+
+
 **Product**
 ```
 └── Name
+description
 └── precio
 └── thumb
+tags
+category
+gallery
 └── Add product
 ```
 
