@@ -30,12 +30,15 @@ gallery
 
 **Cart**
 ```
+table design
 cart items
 empty cart
+update cart
 ```
 
 **Checkout**
 ```
 information
+validate inputs
 payment gateways
 ```
