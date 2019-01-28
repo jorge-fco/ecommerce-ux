@@ -21,13 +21,13 @@ filters
 
 **Product**
 ```
-└── Name
-description
+└── name
+└── description
 └── precio
 └── thumb
-tags
-category
-gallery
+└── tags
+└── category
+└── gallery
 └── Add product
 ```
 
