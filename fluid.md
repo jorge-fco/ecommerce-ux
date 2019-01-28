@@ -29,6 +29,7 @@ filters
 └── category
 └── gallery
 └── Add product
+related products
 ```
 
 **Cart**
