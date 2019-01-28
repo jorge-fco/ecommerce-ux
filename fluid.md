@@ -13,6 +13,7 @@
 **Products**
 ```
 Buscador
+download catalog
 tags
 categories
 filters
