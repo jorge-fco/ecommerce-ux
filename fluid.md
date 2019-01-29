@@ -46,6 +46,7 @@ update cart
 information
 validate inputs
 payment gateways
+shipping
 ```
 
 🧾**Order**
