@@ -31,6 +31,8 @@ filters
 └── category
 └── gallery
 └── Add product
+stock
+active o desactive product
 related products
 ```
 
