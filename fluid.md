@@ -23,6 +23,7 @@ filters
 **Product**
 ```
 └── name
+└── quantity
 └── description
 └── precio
 └── thumb
