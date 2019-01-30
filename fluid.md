@@ -38,8 +38,10 @@ related products
 ```
 table design
 cart items
-empty cart
+remove item
+add quantity item
 update cart
+empty cart
 ```
 
 **Checkout**
