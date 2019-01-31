@@ -56,5 +56,9 @@ shipping
 
 🧾**Order**
 ```
+order ID
+order status
+order payment-name
+order-product
 download order
 ```
